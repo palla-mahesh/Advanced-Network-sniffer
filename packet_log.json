@@ -1,0 +1,465 @@
+[
+  {
+    "timestamp": "2026-05-06 22:03:52.603",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "163.70.140.60",
+    "protocol": "TCP",
+    "length": 116,
+    "src_port": 56394,
+    "dst_port": 443,
+    "payload": "17030300476bd4399e5112f0c41b2e9d475a55e7e3373317e0faa8c424d527bcaad20458e0791d069a355bb3714a5adba873e1ce6ad45d3b6b433c8ad60f38e796c13c3e16eeae1682a90c5e"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:52.635",
+    "src_ip": "163.70.140.60",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 443,
+    "dst_port": 56394
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.027",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "162.247.243.29",
+    "protocol": "TCP",
+    "length": 41,
+    "src_port": 65055,
+    "dst_port": 443,
+    "payload": "00"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.056",
+    "src_ip": "162.247.243.29",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 65055
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.237",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "43.109.39.204",
+    "protocol": "TCP",
+    "length": 41,
+    "src_port": 64588,
+    "dst_port": 443,
+    "payload": "00"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.370",
+    "src_ip": "43.109.39.204",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 64588
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.381",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 64,
+    "src_port": 443,
+    "dst_port": 53918,
+    "payload": "170303001304992888d67eb036cf0aa26b75f98568b8f76f"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.393",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.18.11.243",
+    "protocol": "TCP",
+    "length": 68,
+    "src_port": 53918,
+    "dst_port": 443,
+    "payload": "1703030017673017f79a320e5db134353c4859b028d758a799962f48"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.402",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 443,
+    "dst_port": 53918
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.482",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "43.109.39.204",
+    "protocol": "TCP",
+    "length": 41,
+    "src_port": 64589,
+    "dst_port": 443,
+    "payload": "00"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.544",
+    "src_ip": "43.109.39.204",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 64589
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.675",
+    "type": "ARP",
+    "operation": "Request",
+    "src_ip": "192.168.0.1",
+    "dst_ip": "192.168.0.102"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:53.680",
+    "type": "ARP",
+    "operation": "Reply",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "192.168.0.1"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:54.391",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 64,
+    "src_port": 443,
+    "dst_port": 53918,
+    "payload": "17030300137626e6492d61e3b47d506175510f411df5bc3b"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:54.402",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.18.11.243",
+    "protocol": "TCP",
+    "length": 68,
+    "src_port": 53918,
+    "dst_port": 443,
+    "payload": "1703030017a5b877b8699ed854fca8b50f7a78a5bee7accf7f556c06"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:54.419",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 443,
+    "dst_port": 53918
+  },
+  {
+    "timestamp": "2026-05-06 22:03:55.419",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 64,
+    "src_port": 443,
+    "dst_port": 53918,
+    "payload": "17030300130ab5dc0c281738b392bf08b428f8161e2071d8"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:55.429",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.18.11.243",
+    "protocol": "TCP",
+    "length": 68,
+    "src_port": 53918,
+    "dst_port": 443,
+    "payload": "170303001718f40529b1a3bc87d28e4d10a35b7cd2823f447c1df188"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:55.446",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 443,
+    "dst_port": 53918
+  },
+  {
+    "timestamp": "2026-05-06 22:03:56.422",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "13.107.5.93",
+    "protocol": "TCP",
+    "length": 41,
+    "src_port": 65104,
+    "dst_port": 443,
+    "payload": "00"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:56.433",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 64,
+    "src_port": 443,
+    "dst_port": 53918,
+    "payload": "1703030013201b2cdf75724d71b06d047c3250097f4f113b"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:56.461",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.18.11.243",
+    "protocol": "TCP",
+    "length": 68,
+    "src_port": 53918,
+    "dst_port": 443,
+    "payload": "17030300170ca2670633c63d8c1fd747a71c908d49df283ff2db83f3"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:56.473",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 443,
+    "dst_port": 53918
+  },
+  {
+    "timestamp": "2026-05-06 22:03:56.484",
+    "src_ip": "13.107.5.93",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 65104
+  },
+  {
+    "timestamp": "2026-05-06 22:03:56.891",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "150.171.110.85",
+    "protocol": "TCP",
+    "length": 41,
+    "src_port": 65105,
+    "dst_port": 443,
+    "payload": "00"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:56.931",
+    "src_ip": "150.171.110.85",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 65105
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.240",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.208.16.92",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 53920,
+    "dst_port": 443
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.276",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "43.109.39.204",
+    "protocol": "TCP",
+    "length": 41,
+    "src_port": 64590,
+    "dst_port": 443,
+    "payload": "00"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.325",
+    "src_ip": "43.109.39.204",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 64590
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.363",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 64,
+    "src_port": 443,
+    "dst_port": 53918,
+    "payload": "1703030013559da8157797150ac699a6d4d2c0668f276bc2"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.379",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.18.11.243",
+    "protocol": "TCP",
+    "length": 68,
+    "src_port": 53918,
+    "dst_port": 443,
+    "payload": "1703030017bb874b374f6d44906070c2bf1197acff0f5bc5e8a7ae7d"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.398",
+    "src_ip": "104.18.11.243",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 443,
+    "dst_port": 53918
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.506",
+    "src_ip": "104.208.16.92",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 53920
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.515",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.208.16.92",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 53920,
+    "dst_port": 443
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.524",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.208.16.92",
+    "protocol": "TCP",
+    "length": 599,
+    "src_port": 53920,
+    "dst_port": 443,
+    "payload": "160301022a0100022603035ae9364551068ccee2524fdd1a37d20beb136af49f8f1ae420f57c4d6e2bebcc206c8c620c24e1f0dd596be9c0cff18c6ee132d0a310519bdb2548c457d2b8cb8f002813021301c02cc02bc030c02fc024c023c028c027c00a"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.773",
+    "src_ip": "104.208.16.92",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 1480,
+    "src_port": 443,
+    "dst_port": 53920,
+    "payload": "16030300bb020000b7030320526f2a00ce269539d6688aacbdcf965665f800183da4852b22af8c3c01e4e1206c8c620c24e1f0dd596be9c0cff18c6ee132d0a310519bdb2548c457d2b8cb8f130200006f002b00020304003300650018006104352a401c"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.785",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.208.16.92",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 53920,
+    "dst_port": 443
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.795",
+    "src_ip": "104.208.16.92",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 5800,
+    "src_port": 443,
+    "dst_port": 53920,
+    "payload": "25421752d3bfececb0a714521ecfbd059d510ee1a090fbb3f78bc018964905a77fbadebc6d3a51c63ec268c8614320db7b77d7d5ee54a9d7ee1ec64f4a81518b0100985c1228c7b4977a476836fbd4a23e6c232b41789b6d72ca1ce1abc06c9bb19a5dc7"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.803",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.208.16.92",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 53920,
+    "dst_port": 443
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.812",
+    "src_ip": "104.208.16.92",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 1346,
+    "src_port": 443,
+    "dst_port": 53920,
+    "payload": "92f20006fb5cad7e4a5f2df236981dbea2c2e87d2cfa9ae57d500adc87956112fcb7dc85f038f4f5e0315cf24540b9589ac5717176f04ed006181a363318a090c26f3d4b2cc952e1f94ed3cd12ce51fedf80e5591f9d9db42e262cf256975d81cce49b99"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.823",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.208.16.92",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 53920,
+    "dst_port": 443
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.828",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.208.16.92",
+    "protocol": "TCP",
+    "length": 120,
+    "src_port": 53920,
+    "dst_port": 443,
+    "payload": "1403030001011703030045a488ea4fcc5096de835a44ee58d07a8f7832cf485df46393054914a22a93377d46da35db09c21ceca4ccb38710c6484ff2ca8e522afa8e562e3499bf8b2b597d11195d344f"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.839",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "104.208.16.92",
+    "protocol": "TCP",
+    "length": 1031,
+    "src_port": 53920,
+    "dst_port": 443,
+    "payload": "17030303da987ea44f1cd434054ec13528650cac99ed73f68e7ee3cab1a8d784fafddd7421ae49cbb038e90477fe06a36b2cad1f33c527bb2e5b2eedbffda204491dbb6f9320ebd3ce9d9e1b62d8c3db4e82b699d6338531baccb612f735792e79abac39"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.845",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "43.109.39.204",
+    "protocol": "TCP",
+    "length": 41,
+    "src_port": 64587,
+    "dst_port": 443,
+    "payload": "00"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.883",
+    "src_ip": "43.109.39.204",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 64587
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.918",
+    "src_ip": "192.168.0.102",
+    "dst_ip": "150.171.110.85",
+    "protocol": "TCP",
+    "length": 41,
+    "src_port": 65106,
+    "dst_port": 443,
+    "payload": "00"
+  },
+  {
+    "timestamp": "2026-05-06 22:03:57.937",
+    "src_ip": "150.171.110.85",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 52,
+    "src_port": 443,
+    "dst_port": 65106
+  },
+  {
+    "timestamp": "2026-05-06 22:03:58.060",
+    "src_ip": "104.208.16.92",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 40,
+    "src_port": 443,
+    "dst_port": 53920
+  },
+  {
+    "timestamp": "2026-05-06 22:03:58.126",
+    "src_ip": "104.208.16.92",
+    "dst_ip": "192.168.0.102",
+    "protocol": "TCP",
+    "length": 143,
+    "src_port": 443,
+    "dst_port": 53920,
+    "payload": "1703030062f8e00a734a6eb0889b30026c02605599e1c116c13be587058857d547395e0e5598c7269a0392ad0219b942e03d47b0ec70166c06da0c389fe008e29a3cc92a6ed73bfa596cde3b87f759cf7e86d7094758b0f2a61a40bcb6de87e1f4c36a7a"
+  }
+]
